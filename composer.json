@@ -1,0 +1,24 @@
+{
+    "name": "manasahtech/web",
+    "description": "The web package offers a robust, flexible system for handling HTTP requests/responses. It features straightforward routing, middleware support, and multi-HTTP method handling. This reliable web infrastructure allows developers to focus on core application features and business logic.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Manasahtech\\Data\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RuyahTech, SLLC",
+            "email": "manasahtech@ruyahtech.com"
+        },
+        {
+            "name": "Abdullah Sowailem",
+            "email": "abdullah.sowailem@gmail.com"
+        }
+    ],
+    "require": {
+        "manasahtech/contacts": "^1.0"
+    }
+}
