@@ -19,6 +19,6 @@
         }
     ],
     "require": {
-        "manasahtech/contacts": "^1.0"
+        "manasahtech/contracts": "^1.0"
     }
 }
